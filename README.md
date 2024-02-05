@@ -1,2 +1,2 @@
 # Pushkin_repo
-Works by A.S. Pushkin
+Works by A.S. Pushkin ru
